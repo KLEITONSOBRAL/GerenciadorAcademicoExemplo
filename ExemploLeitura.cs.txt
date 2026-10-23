@@ -1,0 +1,6 @@
+// Exemplo simples do Cartão 2 (apenas para estudo).
+// Não faz parte da compilação do projeto.
+public async Task<string> LerArquivo()
+{
+    return await File.ReadAllTextAsync("projetos.json");
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "Id": 1,
+    "Titulo": "Oficina de Programação",
+    "CargaHoraria": 40
+  },
+  {
+    "Id": 2,
+    "Titulo": "Introdução à Robótica",
+    "CargaHoraria": 30
+  },
+  {
+    "Id": 3,
+    "Titulo": "Projeto de Leitura",
+    "CargaHoraria": 20
+  }
+]
